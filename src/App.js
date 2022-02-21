@@ -1,6 +1,6 @@
 import './App.css';
 import React, { useState, useRef, useEffect } from 'react';
-// import { GrFacebook, GrPinterest, GrInstagram } from "react-icons/gr";
+
 
 
 function App() {
